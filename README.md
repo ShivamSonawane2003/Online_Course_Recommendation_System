@@ -2,6 +2,9 @@
 
 This project builds a personalized course recommendation system using learner behavior data, engagement metrics, and course attributes. The goal is to suggest the most relevant online courses to users based on their preferences and activity.
 
+## 🚀 Deployed to Streamlit App Link
+https://onlinecourserecommendationsystem.streamlit.app/
+
 ## 🚀 Features
 
 - Recommends courses using collaborative and content-based filtering
